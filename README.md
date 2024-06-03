@@ -2,19 +2,19 @@
 
 
 ## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
-100 words to explain what your project is about to a general audience. 
+This model takes a dataset comprising a set of people whom may of may not have diabities. A number of features are also present oncluding BMI, heart disease condition and blood glucose level. Metrics are evaluated, features are analysed and a model to predict disease status created 
 
 ## DATA
-A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
+The dataset came from the data science website kaggle. 
 
 ## MODEL 
-A summary of the model you’re using and why you chose it. 
+I used a random forest for both feature importance and predictin. These are powerful predictors. 
 
 ## HYPERPARAMETER OPTIMSATION
-Description of which hyperparameters you have and how you chose to optimise them. 
+I used a gridsearch approach to optimise parameters such as tree depth.
 
 ## RESULTS
-A summary of your results and what you can learn from your model 
+The result gave a high value of 0.95 AUC.
 
 You can include images of plots using the code below:
 ![Screenshot](image.png)
