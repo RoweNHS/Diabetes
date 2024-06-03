@@ -4,20 +4,21 @@ As far as you can, complete the model datasheet. If you have got the data from t
 
 ## Motivation
 
-- For what purpose was the dataset created? 
+- For what purpose was the dataset created? The dataset was created to understand the impacts of different factors on diabities. 
 - Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)? Who funded the creation of the dataset?
 
  
 ## Composition
 
-- What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)? 
+- What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)? These are isntances of people. 
 - How many instances of each type are there? 
 - Is there any missing data?
 - Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by    doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?
 
 ## Collection process
 
-- How was the data acquired? 
+- How was the data acquired?  Original owners: National Institute of Diabetes and Digestive and
+Kidney Diseases
 - If the data is a sample of a larger subset, what was the sampling strategy? 
 - Over what time frame was the data collected?
 
