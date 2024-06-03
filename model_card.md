@@ -4,11 +4,11 @@ See the [example Google model cards](https://modelcards.withgoogle.com/model-rep
 
 ## Model Description
 
-**Input:** Describe the inputs of your model 
+**Input:** The inputs to the model are a set of features based on a persons health etc.
 
-**Output:** Describe the output(s) of your model
+**Output:** The outputs are predictions of whether a person has diabities or not.
 
-**Model Architecture:** Describe the model architecture you’ve used
+**Model Architecture:** I used randomforests for both prediction and feature selection. 
 
 ## Performance
 
@@ -16,7 +16,7 @@ Give a summary graph or metrics of how the model performs. Remember to include h
 
 ## Limitations
 
-Outline the limitations of your model.
+I would have liked more data, in terms of features and people. Perhaps use a more complex approach such as NNs.
 
 ## Trade-offs
 
